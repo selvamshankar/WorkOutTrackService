@@ -51,8 +51,19 @@
   </Choose>
   <ItemGroup>
     <Compile Include="Controller\CategoryControllerTest.cs" />
+    <Compile Include="Controller\WorkOutTrackerControllerTest.cs" />
     <Compile Include="UnitTest1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\WorkOutDBLayer\WorkOutDBLayer.csproj">
+      <Project>{7D44A527-8A59-4434-96E5-D2297D128974}</Project>
+      <Name>WorkOutDBLayer</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WorkOutDBModel\WorkOutDBModel.csproj">
+      <Project>{23c3bf7b-588a-454b-9fe8-baeaea615ec9}</Project>
+      <Name>WorkOutDBModel</Name>
+    </ProjectReference>
   </ItemGroup>
   <Choose>
     <When Condition="'$(VisualStudioVersion)' == '10.0' And '$(IsCodedUITest)' == 'True'">

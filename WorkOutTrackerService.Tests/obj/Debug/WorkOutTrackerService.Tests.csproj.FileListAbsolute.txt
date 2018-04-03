@@ -5,3 +5,9 @@ C:\Shankar\WorkOutTrackService\WorkOutTrackerService.Tests\bin\Debug\Microsoft.V
 C:\Shankar\WorkOutTrackService\WorkOutTrackerService.Tests\obj\Debug\WorkOutTrackerService.Tests.csprojResolveAssemblyReference.cache
 C:\Shankar\WorkOutTrackService\WorkOutTrackerService.Tests\obj\Debug\WorkOutTrackerService.Tests.dll
 C:\Shankar\WorkOutTrackService\WorkOutTrackerService.Tests\obj\Debug\WorkOutTrackerService.Tests.pdb
+C:\Shankar\WorkOutTrackService\WorkOutTrackerService.Tests\bin\Debug\WorkOutDBLayer.dll
+C:\Shankar\WorkOutTrackService\WorkOutTrackerService.Tests\bin\Debug\WorkOutDBModel.dll
+C:\Shankar\WorkOutTrackService\WorkOutTrackerService.Tests\bin\Debug\EntityFramework.dll
+C:\Shankar\WorkOutTrackService\WorkOutTrackerService.Tests\bin\Debug\WorkOutDBLayer.pdb
+C:\Shankar\WorkOutTrackService\WorkOutTrackerService.Tests\bin\Debug\WorkOutDBModel.pdb
+C:\Shankar\WorkOutTrackService\WorkOutTrackerService.Tests\bin\Debug\EntityFramework.xml
