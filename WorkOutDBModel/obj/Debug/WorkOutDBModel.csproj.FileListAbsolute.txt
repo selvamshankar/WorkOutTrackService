@@ -1,0 +1,10 @@
+C:\FSD\WorkOutTrackService\WorkOutDBModel\bin\Debug\WorkOutDBModel.dll
+C:\FSD\WorkOutTrackService\WorkOutDBModel\bin\Debug\WorkOutDBModel.pdb
+C:\FSD\WorkOutTrackService\WorkOutDBModel\obj\Debug\WorkOutDBModel.csprojResolveAssemblyReference.cache
+C:\FSD\WorkOutTrackService\WorkOutDBModel\obj\Debug\WorkOutDBModel.dll
+C:\FSD\WorkOutTrackService\WorkOutDBModel\obj\Debug\WorkOutDBModel.pdb
+C:\Shankar\WorkOutTrackService\WorkOutDBModel\bin\Debug\WorkOutDBModel.dll
+C:\Shankar\WorkOutTrackService\WorkOutDBModel\bin\Debug\WorkOutDBModel.pdb
+C:\Shankar\WorkOutTrackService\WorkOutDBModel\obj\Debug\WorkOutDBModel.csprojResolveAssemblyReference.cache
+C:\Shankar\WorkOutTrackService\WorkOutDBModel\obj\Debug\WorkOutDBModel.dll
+C:\Shankar\WorkOutTrackService\WorkOutDBModel\obj\Debug\WorkOutDBModel.pdb

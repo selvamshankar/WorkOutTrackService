@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkOutTrackService", "WorkOutTrackService\WorkOutTrackService.csproj", "{B50CE6A6-D38B-4402-8548-93E7EF250CB2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkOutDBLayer", "WorkOutDBLayer\WorkOutDBLayer.csproj", "{7D44A527-8A59-4434-96E5-D2297D128974}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkOutDBModel", "WorkOutDBModel\WorkOutDBModel.csproj", "{23C3BF7B-588A-454B-9FE8-BAEAEA615EC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkOutTrackerService.Tests", "WorkOutTrackerService.Tests\WorkOutTrackerService.Tests.csproj", "{91D4C9A1-2B7F-43E2-B645-8563A96C9B70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B50CE6A6-D38B-4402-8548-93E7EF250CB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B50CE6A6-D38B-4402-8548-93E7EF250CB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B50CE6A6-D38B-4402-8548-93E7EF250CB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B50CE6A6-D38B-4402-8548-93E7EF250CB2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D44A527-8A59-4434-96E5-D2297D128974}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D44A527-8A59-4434-96E5-D2297D128974}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D44A527-8A59-4434-96E5-D2297D128974}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D44A527-8A59-4434-96E5-D2297D128974}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23C3BF7B-588A-454B-9FE8-BAEAEA615EC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23C3BF7B-588A-454B-9FE8-BAEAEA615EC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23C3BF7B-588A-454B-9FE8-BAEAEA615EC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23C3BF7B-588A-454B-9FE8-BAEAEA615EC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91D4C9A1-2B7F-43E2-B645-8563A96C9B70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91D4C9A1-2B7F-43E2-B645-8563A96C9B70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91D4C9A1-2B7F-43E2-B645-8563A96C9B70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91D4C9A1-2B7F-43E2-B645-8563A96C9B70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

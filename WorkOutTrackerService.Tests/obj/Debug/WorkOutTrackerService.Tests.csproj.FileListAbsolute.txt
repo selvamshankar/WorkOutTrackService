@@ -1,0 +1,7 @@
+C:\Shankar\WorkOutTrackService\WorkOutTrackerService.Tests\bin\Debug\WorkOutTrackerService.Tests.dll
+C:\Shankar\WorkOutTrackService\WorkOutTrackerService.Tests\bin\Debug\WorkOutTrackerService.Tests.pdb
+C:\Shankar\WorkOutTrackService\WorkOutTrackerService.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Shankar\WorkOutTrackService\WorkOutTrackerService.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Shankar\WorkOutTrackService\WorkOutTrackerService.Tests\obj\Debug\WorkOutTrackerService.Tests.csprojResolveAssemblyReference.cache
+C:\Shankar\WorkOutTrackService\WorkOutTrackerService.Tests\obj\Debug\WorkOutTrackerService.Tests.dll
+C:\Shankar\WorkOutTrackService\WorkOutTrackerService.Tests\obj\Debug\WorkOutTrackerService.Tests.pdb
